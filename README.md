@@ -129,7 +129,3 @@ This repository does not include a license file by default. Add a LICENSE file i
 
 ## Contributing
 Contributions are welcome. Please open issues or PRs with improvements, bug fixes, or documentation updates.
-
----
-
-If you'd like, I can: add a LICENSE file, create an example `terraform.tfvars.example`, or open a PR with a pre-baked user-data script that installs NVIDIA drivers and Docker.
