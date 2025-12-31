@@ -125,7 +125,7 @@ terraform destroy -var-file="terraform.tfvars" -auto-approve
 - Add an AMI build pipeline (Packer) to bake GPU drivers and dependencies into a golden AMI.
 
 ## License
-This repository does not include a license file by default. Add a LICENSE file if you want to specify terms.
+This repository is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
 
 ## Contributing
 Contributions are welcome. Please open issues or PRs with improvements, bug fixes, or documentation updates.
